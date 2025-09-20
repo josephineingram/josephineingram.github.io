@@ -1,0 +1,1 @@
+In project 1, I collaborated with John, Vo, and Mo'e to create a document on our GitHub repo describing our respective research interests. I then created a separate repository with information about myself.
